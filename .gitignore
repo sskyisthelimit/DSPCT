@@ -1,0 +1,13 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*.so
+
+# Poetry / env
+.venv/
+.env
+poetry.lock
+
+# output / data
+out/
+images/
